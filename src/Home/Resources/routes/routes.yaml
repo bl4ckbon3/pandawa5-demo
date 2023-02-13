@@ -1,0 +1,4 @@
+home:
+    uri: '%home.uri%'
+    controller: App\Home\Http\Controller\HomePageController@index
+    methods: GET

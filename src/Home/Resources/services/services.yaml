@@ -1,0 +1,4 @@
+App\Home\Service\TransformerService:
+    class: App\Home\Service\TransformerService
+    arguments:
+        - '%home.prefix%'
