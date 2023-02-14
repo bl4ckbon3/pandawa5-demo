@@ -58,6 +58,6 @@ return [
     ],
 
     'exception' => [
-        'handler' => Pandawa\Component\Foundation\Handler\ExceptionHandler::class,
+        'handler' => Pandawa\Bundle\ResourceBundle\Handler\ExceptionHandler::class,
     ],
 ];
